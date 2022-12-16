@@ -1,3 +1,3 @@
-### Hi there 👋
+## Hi there 👋
 
-## Hi, I'm Turgutefe Akşit from Turkey
+####           Hi, I'm Turgutefe Akşit from Turkey
