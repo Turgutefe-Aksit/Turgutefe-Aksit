@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-####           Hi, I'm Turgutefe Akşit from Turkey
+ <p align="center">
+ Hi, I'm Turgutefe Akşit from Turkey
+</p>     
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turgutefe-Aksit&show_icons=true&bg_color=00000000)
 
