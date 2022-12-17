@@ -3,7 +3,7 @@
 </h1>  
 
 <h3 align="center" >
- Hi, I'm Turgutefe Akşit from Turkey and I am a Computer Science student at Izmir Bakircay University
+ Hi, I'm Turgutefe Akşit from Turkey and I am a Computer Science student at Izmir Bakircay University.
 </h3>     
 
 
