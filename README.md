@@ -1,8 +1,10 @@
-## Hi there 👋
+ <h1 align="center" >
+ Hi there 👋
+</h1>  
 
-<p align="center" >
+<h3 align="center" >
  Hi, I'm Turgutefe Akşit from Turkey and I am a Computer Science student at Izmir Bakircay University
-</p>     
+</h3>     
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turgutefe-Aksit&show_icons=true&bg_color=00000000)
