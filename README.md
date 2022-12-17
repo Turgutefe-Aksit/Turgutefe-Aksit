@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center" style="font-size: 200%;" >
+<p align="center" >
  Hi, I'm Turgutefe Akşit from Turkey and I am a Computer Science student at Izmir Bakircay University
 </p>     
 
