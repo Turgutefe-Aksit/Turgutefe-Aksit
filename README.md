@@ -10,3 +10,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turgutefe-Aksit&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turgutefe-Aksit&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h2>Languages and Tools</h2>
+<div style="display: inline_block"><br>
+    
+    
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mssql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
